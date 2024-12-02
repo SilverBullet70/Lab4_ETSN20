@@ -1,0 +1,18 @@
+Hello, world! This is a sample text for testing.
+It contains several lines, words, and even some numbers: 42, 365.
+
+Key-Value pairs:
+Name: Alice
+Age: 30
+Location: Wonderland
+
+List of items:
+- Apples
+- Bananas
+- Cherries
+
+Age again
+
+Age triple!
+
+This text is perfect for parsing and learning basic programming concepts. Good luck!
